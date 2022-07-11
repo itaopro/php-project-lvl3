@@ -1,0 +1,16 @@
+{
+    "name": "hexlet/code",
+    "description": "project-3",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nikolai Malchikov",
+            "email": "malchikov.ne@gmail.com"
+        }
+    ],
+    "require": {}
+}
