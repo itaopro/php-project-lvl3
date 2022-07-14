@@ -3,4 +3,4 @@ install:
 validate:
 	composer validate
 lint:
-	composer phpcs
+	composer exec --verbose phpcs -- --standard=PSR12 src tests
